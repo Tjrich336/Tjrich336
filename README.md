@@ -1,6 +1,6 @@
 Hi there! 👋
 
-My name is Trevor and I'm a Computer Science student in North Carolina pursuring a concentration in Software Engineering.
+My name is Trevor and I'm a Computer Science student in North Carolina pursuing a concentration in Software Engineering.
 
 ⚡Here's some info about me!
 
