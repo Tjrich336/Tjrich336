@@ -6,4 +6,4 @@ My name is Trevor and I'm a Computer Science student in North Carolina pursuing 
 
 🌱 Interests: Technical Design, Machine Learning, Front End Development, AI, UX/UI Design.
 
-💬 Reach out to me on LinkedIn! | https://www.linkedin.com/in/trevor-richardson-8227a3224/
+💬 Reach out to me on LinkedIn! | https://www.linkedin.com/in/trevv/
